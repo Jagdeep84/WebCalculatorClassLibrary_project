@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaJE3sfpybMdH3IWTkn+wLFXCTJQaRsMpIJ0Bg7v/cQ88WBkOihDmuSJB43TqhSVkRZR8jOXQagvZ2Mk09JziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\SimplewebCalculator_Project\\SimpleCalc\\SimpleCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
